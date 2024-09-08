@@ -1,6 +1,8 @@
 # GoGuardian Extension
 
-For you people that would like to tinker with the GoGuardian filter but don't have the actual extension.
+For you people that would like to look at files in the GoGuardian filter but don't have the actual extension.
+
+This won't work because there needs to be a separate License extension.
 
 This was NOT provided by me, got it from `the-currentsilas` on GitHub.
 
